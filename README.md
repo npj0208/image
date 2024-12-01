@@ -2,4 +2,4 @@
 
 ![혹익인간 아이콘](https://raw.githubusercontent.com/npj0208/image/refs/heads/main/menu_refresh.png)
 
-[홍익인간 app](https://github.com/npj0208/image/raw/refs/heads/main/app-release.apk)
+[홍익인간 app download](https://github.com/npj0208/image/raw/refs/heads/main/app-release.apk)
